@@ -1,0 +1,3 @@
+/Users/josuecarpio/Documents/OS/MSH/cmake-build-debug/CMakeFiles/MSH.dir
+/Users/josuecarpio/Documents/OS/MSH/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/josuecarpio/Documents/OS/MSH/cmake-build-debug/CMakeFiles/rebuild_cache.dir
